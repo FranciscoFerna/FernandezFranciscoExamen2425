@@ -61,7 +61,8 @@
 ## 5. Verificació final
 1. Penja totes les captures i aquest document a la branca `documentacio`.  
 2. Comprova que tots els commits i fitxers estan al repositori remot.  
-   **Captura:** `captures/git-final.png`
+   **Captura:** ![Logo](published-1.png)
+   ![Logo](published-2.png)
 
 ---
 
